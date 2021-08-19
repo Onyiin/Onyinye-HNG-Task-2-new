@@ -7,6 +7,8 @@
 	border: 2px;
 	border: solid;
 	border-radius: 30px;
+text-decoration:,none;
+	
 }
 
 #container2 {
@@ -24,6 +26,4 @@
 .logo2 {
 	float: right;
 	width: 820px;
-}
-text-decoration=none;
 }
