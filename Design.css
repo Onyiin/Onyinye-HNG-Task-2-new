@@ -1,4 +1,4 @@
-
+@charset "utf-8";
 /* CSS Document */
 #container {
 	float: center;
@@ -26,3 +26,13 @@
 	float: right;
 	width: 820px;
 }
+h2{
+text-decoration: none;
+
+}
+h3 {
+text-decoration: none;
+	
+}
+h4 {
+text-decoration: none;
