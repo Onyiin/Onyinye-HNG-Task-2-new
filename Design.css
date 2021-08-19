@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+#container {
+	float: center;
+	width: 1240px;
+	height: 1200px;
+	border: 2px;
+	border: solid;
+	border-radius: 30px;
+}
+
+#container2 {
+	float: center;
+	width: 1240px;
+}
+#logo
+.logo1, .logo2 {
+	height: 200px;
+}
+.logo1 {
+	float: left;
+	width: 420px;
+}
+.logo2 {
+	float: right;
+	width: 820px;
+}
